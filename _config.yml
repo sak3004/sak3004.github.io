@@ -35,7 +35,7 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/saksham.rastogi.58
+facebook: saksham.rastogi.58
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -43,13 +43,13 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: sak3004
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: rsaksham@ymail.com
 
 authors:
     johndoe:
