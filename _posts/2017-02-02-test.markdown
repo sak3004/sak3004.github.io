@@ -1,7 +1,9 @@
 ---
 title: Test Post
 layout: post
-date: 2016-02-2 21:58
+date: 2016-02-2 22:08
+blog: true
+author: saksham rastogi
 ---
 ### Blog Post
 Blah Blah Blah
